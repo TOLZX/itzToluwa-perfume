@@ -77,9 +77,9 @@ const AdminLogin = ({ onLogin }) => {
               Enter Dashboard
             </button>
           </form>
-          <p className="text-gray-600 text-xs text-center mt-6">
+          {/* <p className="text-gray-600 text-xs text-center mt-6">
             Default password: <span className="text-gray-400">admin123</span>
-          </p>
+          </p> */}
         </div>
 
         <p className="text-center mt-6">
